@@ -1,0 +1,51 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+#nav {
+    background-color: #1F1E28;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 .8em;
+    height: 20vh;
+    align-items: center;
+    flex-wrap: wrap;
+    color: #fff;
+    font-size: 1.4em;
+}
+
+.nav-home-link {
+    font-size: 2em;
+    text-decoration: none;
+    color: #fff;
+}
+
+.menu-links {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    color: #BDCCDB;
+}
+
+ul.menu-links {
+    list-style-type: none;
+}
+
+.menu-links li {
+    padding-left: .8em;
+    text-decoration: none;
+}
+
+.sign-in-btn .btn {
+    color: #fff;
+}
+
+.sign-in-btn .btn1 {
+    color: #fff;
+}
+
+.sign-in-btn .btn2 {
+    color: #fff;
+}
