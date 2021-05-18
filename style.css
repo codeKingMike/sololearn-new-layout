@@ -8,8 +8,8 @@
     background-color: #1F1E28;
     display: flex;
     justify-content: space-between;
-    padding: 0 .8em;
-    height: 20vh;
+    padding: 0 1.3em;
+    height: 17vh;
     align-items: center;
     flex-wrap: wrap;
     color: #fff;
@@ -40,12 +40,18 @@ ul.menu-links {
 
 .sign-in-btn .btn {
     color: #fff;
+    font-weight: 700;
 }
 
 .sign-in-btn .btn1 {
     color: #fff;
+    border: 1px solid #2493DF;
+    padding:0.8em 3.3em;
+    margin-right: 2em;
 }
 
 .sign-in-btn .btn2 {
     color: #fff;
+    background-color: #2493DF;
+    padding:0.8em 3.3em;
 }
